@@ -1,2 +1,2 @@
-# C-Training-Ground
+# CSharp-Training-Ground
 C# Training
